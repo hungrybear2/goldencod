@@ -1,0 +1,77 @@
+<header class="modal-header">
+    <div class="close" ng-click="$dismiss()">Back to the menu</div>
+    <h4 class="name">{{ selectedMeal.name }} <span ng-show="currentOrder.quantity > 1">x {{ currentOrder.quantity }}</span></h4>
+    <div class="price-container">
+        <span class="price">{{ currentOrder.total | currency: currencyUnit}}</span>
+    </div>
+</header>
+
+<div class="modal-body">
+    <div><p class="description option-row">{{ selectedMeal.description }}</p></div>
+	<div class="option-row" ng-show="selectedMeal.sizes.length > 1">
+        <div class="sizeContainer">
+            <ul class="option-list">
+                <li class="size option" ng-repeat="size in selectedMeal.sizes">
+                	<input 
+						type="radio" 
+						name="size"
+						id="size_{{ size.name }}"
+						ng-model="currentOrder.size"
+						ng-value="size.name"
+						ng-change="selectOrderSize(selectedMeal, currentOrder.size)"
+						>
+                    <label for="size_{{ size.name }}" ng-class="{selected: currentOrder.size == size.name}">
+                        <span class="size-name">{{ size.name }}</span>
+                        <br/>
+                        <span class="price">{{ size.price | currency: currencyUnit }}</span>
+                    </label>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="mealOptionTypes">
+		<div class="option-row" ng-repeat="optionGroup in availableOptionGroups(selectedMeal, currentOrder.size)">
+			<div class="clearfix">
+				<h4>{{ optionGroup.name }}</h4>
+				<span ng-show="{{ optionGroup.multiSelect && optionGroup.maxSelect > 0 }}">(Choose up to {{ optionGroup.maxSelect }} options)</span>
+				<span ng-show="{{ optionGroup.multiSelect && optionGroup.maxSelect > 0 }}" class="selectedCount">
+					{{ selectedOptionCount(currentOrder.options, optionGroup) }} of {{ optionGroup.maxSelect }} options selected
+				</span>
+			</div>
+
+	        <div class="mealOptionsContainer ">
+	            <div class="dropdownButton"></div>
+	            <div class="mealOptionsWrapper">
+	                <ul class="option-list">
+	                    <li class="mealOption option" ng-repeat="option in optionGroup.options" ng-if="!option.settingsForSize[currentOrder.size].disabled">
+	                        <label ng-class="{selected: currentOrder.options[optionGroup.name][option.name]}"
+	                        		ng-click="selectOrderOption(currentOrder.options, optionGroup, option)">
+	                            {{ option.name }}
+	                            <span class="option-price">{{ option.settingsForSize[currentOrder.size].price | currency: currencyUnit }}</span>
+	                        </label>
+	                    </li>
+	                </ul>
+	            </div>
+	        </div>
+	    </div>
+    </div>
+</div>
+
+<footer class="modal-footer">
+    <input 
+		type="text"
+		name="comment" 
+		class="comment"
+		ng-model="currentOrder.comment"
+		maxlength="60" 
+        placeholder="Special instructions? Type them here" 
+		/>
+    <a class="add_item" ng-click="$close(currentOrder)" ng-hide="{{ offlineMenu || !canAcceptOrders}}">
+		<span class="new_lineitem">
+			Add
+		</span>
+		<span class="edit_lineitem">
+			Save
+		</span>
+    </a>
+</footer>

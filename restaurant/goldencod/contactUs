@@ -1,0 +1,553 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--[if IE]><![endif]-->
+<!DOCTYPE html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="ie ie6 lte9 lte8 lte7" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="ie ie7 lte9 lte8 lte7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="ie ie8 lte9 lte8" lang="en"> <![endif]-->
+<!--[if IE 9]> <html class="ie ie9 lte9" lang="en"> <![endif]-->
+<!--[if gt IE 9]> <html lang="en"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="en"> <!--<![endif]-->
+<head>
+    <!-- Generated: Sun Oct 19 16:06:53 UTC 2014 -->
+
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta lang="en-us"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+
+
+    <!--[if lt IE 9]> <script src="/static/javascript/lib/polyfill/html5shiv.js?live" type="text/javascript" ></script>
+ <![endif]-->
+
+    
+    
+        <title>Golden Cod Doncaster, Fish and Chips at 1A Alexandra Street, Thorne, DN8 4EE - CONTACT US - Golden Cod</title>
+<meta name="description" content="Find our Contact Details, Delivery Details and Opening Hours."/>
+<meta name="keywords" content=""/>
+
+    
+
+    <link href="/static/styles/dist/default.css?live" rel="stylesheet" type="text/css" media="screen, projection" ></link>
+    <link href="/static/styles/dist/restaurant.css?live" rel="stylesheet" type="text/css" media="screen, projection" ></link>
+    <link href="https://fonts.googleapis.com/css?family=Lato:100,400|Droid+Serif:400,700&live" rel="stylesheet" type="text/css" media="screen, projection" rel="stylesheet"></link>
+
+    
+
+
+
+
+
+<script>
+    (function(_,e,rr,s){_errs=[s];var c=_.onerror;_.onerror=function(){var a=arguments;_errs.push(a);
+    c&&c.apply(this,a)};var b=function(){var c=e.createElement(rr),b=e.getElementsByTagName(rr)[0];
+    c.src="//beacon.errorception.com/"+s+".js";c.async=!0;b.parentNode.insertBefore(c,b)};
+    _.addEventListener?_.addEventListener("load",b,!1):_.attachEvent("onload",b)})
+    (window,document,"script", "52b30fdfa675ec343c000edf");
+</script>
+
+    <script src="/static/javascript/lib/polyfill/modernizr.custom-build.js?live" type="text/javascript" ></script>
+
+    <script>
+        
+        Modernizr.load({
+            test : Modernizr.json,
+            nope : '/static/javascript/lib/polyfill/json2.js'
+        });
+    </script>
+
+    
+
+    
+    <script type="text/javascript"
+            src="https://maps.googleapis.com/maps/api/js?libraries=places&sensor=false"></script>
+
+    <script src="/static/javascript/lib/jquery-1.8.2.min.js?live" type="text/javascript" ></script>
+
+    <script src="/static/javascript/lib/lodash.underscore.min.js?live" type="text/javascript" ></script>
+
+    <script src="/static/javascript/lib/picturefill-1.2.0.js?live" type="text/javascript" ></script>
+
+    <script src="/static/javascript/restaurant/RestaurantSiteCommonUi.js?live" type="text/javascript" ></script>
+
+    <script src="/static/javascript/restaurant/ContactUs.js?live" type="text/javascript" ></script>
+
+    <script type="text/javascript">
+        // loaded in for use in ContactUs.js
+        restaurantContactInfo = {
+            address: "1A  Alexandra Street, Thorne, DN8 4EE",
+            placeReference: "",
+            mapUrl: "",
+            delivers: ('true'.toLowerCase() === 'true'),
+            deliveryRadius:  parseInt("9656.039999999999)")
+        }
+    </script>
+
+
+
+</head>
+<body id="home" itemscope itemtype="http://schema.org/Restaurant"
+      
+      >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="iconic-background">
+	<span data-picture data-alt="Golden Cod">
+
+
+        
+            
+        
+        
+
+        
+            
+        
+        
+
+        
+            
+        
+        
+
+		<span data-src="http://lh6.ggpht.com/n5VtETfmvcQ4aRAHVNVM5PLUKOUKeqdQBMDQKFVgAMw_sJhnc3BDs_80yIZPZtwZVCumIyfvylq7o629t1gVyAqz=s480"></span>
+		<span data-src="http://lh6.ggpht.com/yGFWp92uKqMOok7LKRxMBnlHcqysj5sYe0MmNr65-XhvYco7W7y5M13oIZQkJ6IOvIYBOj23UdfpJrGi5BqeJiI=s1024" data-media="(min-width: 481px)"></span>
+		<span data-src="http://lh4.ggpht.com/A8dxjSj3Pccgd_m3OMNP9mX_9TJLTt8Oq6W1jT5dQ9r3tzacn8h-s_B-8BPUd0CuP60SJuv1sb368jJR9W990PXT=s1600" data-media="(min-width: 801px)"></span>
+
+        
+        <!--[if lte IE 8]>
+        <span data-src="http://lh4.ggpht.com/A8dxjSj3Pccgd_m3OMNP9mX_9TJLTt8Oq6W1jT5dQ9r3tzacn8h-s_B-8BPUd0CuP60SJuv1sb368jJR9W990PXT=s1600"></span>
+        <![endif]-->
+
+        <link itemprop="image" href="http://lh4.ggpht.com/A8dxjSj3Pccgd_m3OMNP9mX_9TJLTt8Oq6W1jT5dQ9r3tzacn8h-s_B-8BPUd0CuP60SJuv1sb368jJR9W990PXT=s1600">
+
+		<!-- fallback for non-js browsers -->
+		<noscript>
+            
+            
+                
+            
+            <img src="" alt="Golden Cod" />
+        </noscript>
+	</span>
+
+</div>
+
+
+<div id="wrapper">
+
+    <meta itemprop="name" content="Golden Cod">
+    
+        <meta itemprop="servesCuisine" content="Fish & Chips">
+    
+
+    <input id="restaurantId" type="hidden" value="goldencod">
+
+    
+
+
+
+
+
+
+
+
+
+<header id="restaurant-header">
+    
+    
+
+
+
+
+
+
+
+<ul class="actions">
+    
+	<li class="aboutUs">
+		<a href="/restaurant/goldencod">About Us</a>
+	</li>
+
+	
+		<li class="orderOnline" class="disabled">
+			<a href="/restaurant/goldencod/menu" itemprop="menu">
+	            <i class="fa fa-star"></i>Order Online
+			</a>
+		</li>
+	
+	
+
+	
+
+
+	
+
+    <li class="reviews" class="disabled">
+		<a href="/restaurant/goldencod/reviews">Reviews</a>
+	</li>
+
+	<li class="contact" class="disabled">
+		<a href="/restaurant/goldencod/contactUs">Contact Us</a>
+	</li>
+
+</ul>
+
+    
+        
+    
+</header>
+
+
+    
+
+    <section class="summary">
+        <section id="contactUs" class="contactUs shown">
+            <div class="row">
+
+    <div>
+        <h4>
+            Address
+        </h4>
+
+        <div class="address">
+            1A  Alexandra Street, Thorne, DN8 4EE<br/><a itemprop="map" class="locate-link" address-link="true" target="_blank" href="https://www.google.co.uk/maps/preview#!data=!1m4!1m3!1d1778!2d-0.9568969!3d53.6186248!4m12!2m11!1m10!1s0x0%3A0xd74a29109686d998!3m8!1m3!1d317991!2d-0.0881897!3d51.4893095!3m2!1i1024!2i768!4f13.1">(Open in Google Maps)</a>
+        </div>
+
+        <h4>
+            Contact Details
+        </h4>
+
+        <div class="address">
+            Phone: <a href="tel:+441405 740738"><span itemprop="telephone">+441405 740738</span></a>
+        </div>
+    </div>
+    <div class="mapColumn">
+        <div id="contactMap" class="mapContainer"></div>
+    </div>
+</div>
+<div class="row">
+
+    <div class="serviceHours">
+        <h4>Pickup Hours</h4>
+        <table>
+            <tbody>
+            <tr>
+                    <td class="dayNameColumn">Monday</td>
+                    <td>
+                        <span itemprop="openingHoursSpecification" itemscope itemtype="http://schema.org/OpeningHoursSpecification">
+    <meta itemprop="opens" content="T11:30">
+    <meta itemprop="closes" content="T14:00">
+    <link itemprop="dayOfWeek" href="http://purl.org/goodrelations/v1#Monday"/>
+</span>
+<div>11:30AM - 2:00PM</div>
+                            <span itemprop="openingHoursSpecification" itemscope itemtype="http://schema.org/OpeningHoursSpecification">
+    <meta itemprop="opens" content="T16:30">
+    <meta itemprop="closes" content="T22:50">
+    <link itemprop="dayOfWeek" href="http://purl.org/goodrelations/v1#Monday"/>
+</span>
+<div>4:30PM - 10:50PM</div>
+                            </td>
+                </tr>
+            <tr>
+                    <td class="dayNameColumn">Tuesday</td>
+                    <td>
+                        <span itemprop="openingHoursSpecification" itemscope itemtype="http://schema.org/OpeningHoursSpecification">
+    <meta itemprop="opens" content="T11:30">
+    <meta itemprop="closes" content="T14:00">
+    <link itemprop="dayOfWeek" href="http://purl.org/goodrelations/v1#Tuesday"/>
+</span>
+<div>11:30AM - 2:00PM</div>
+                            <span itemprop="openingHoursSpecification" itemscope itemtype="http://schema.org/OpeningHoursSpecification">
+    <meta itemprop="opens" content="T16:30">
+    <meta itemprop="closes" content="T22:50">
+    <link itemprop="dayOfWeek" href="http://purl.org/goodrelations/v1#Tuesday"/>
+</span>
+<div>4:30PM - 10:50PM</div>
+                            </td>
+                </tr>
+            <tr>
+                    <td class="dayNameColumn">Wednesday</td>
+                    <td>
+                        <span itemprop="openingHoursSpecification" itemscope itemtype="http://schema.org/OpeningHoursSpecification">
+    <meta itemprop="opens" content="T11:30">
+    <meta itemprop="closes" content="T14:00">
+    <link itemprop="dayOfWeek" href="http://purl.org/goodrelations/v1#Wednesday"/>
+</span>
+<div>11:30AM - 2:00PM</div>
+                            <span itemprop="openingHoursSpecification" itemscope itemtype="http://schema.org/OpeningHoursSpecification">
+    <meta itemprop="opens" content="T16:30">
+    <meta itemprop="closes" content="T22:50">
+    <link itemprop="dayOfWeek" href="http://purl.org/goodrelations/v1#Wednesday"/>
+</span>
+<div>4:30PM - 10:50PM</div>
+                            </td>
+                </tr>
+            <tr>
+                    <td class="dayNameColumn">Thursday</td>
+                    <td>
+                        <span itemprop="openingHoursSpecification" itemscope itemtype="http://schema.org/OpeningHoursSpecification">
+    <meta itemprop="opens" content="T11:30">
+    <meta itemprop="closes" content="T14:00">
+    <link itemprop="dayOfWeek" href="http://purl.org/goodrelations/v1#Thursday"/>
+</span>
+<div>11:30AM - 2:00PM</div>
+                            <span itemprop="openingHoursSpecification" itemscope itemtype="http://schema.org/OpeningHoursSpecification">
+    <meta itemprop="opens" content="T16:30">
+    <meta itemprop="closes" content="T22:50">
+    <link itemprop="dayOfWeek" href="http://purl.org/goodrelations/v1#Thursday"/>
+</span>
+<div>4:30PM - 10:50PM</div>
+                            </td>
+                </tr>
+            <tr>
+                    <td class="dayNameColumn">Friday</td>
+                    <td>
+                        <span itemprop="openingHoursSpecification" itemscope itemtype="http://schema.org/OpeningHoursSpecification">
+    <meta itemprop="opens" content="T11:30">
+    <meta itemprop="closes" content="T14:00">
+    <link itemprop="dayOfWeek" href="http://purl.org/goodrelations/v1#Friday"/>
+</span>
+<div>11:30AM - 2:00PM</div>
+                            <span itemprop="openingHoursSpecification" itemscope itemtype="http://schema.org/OpeningHoursSpecification">
+    <meta itemprop="opens" content="T16:30">
+    <meta itemprop="closes" content="T22:50">
+    <link itemprop="dayOfWeek" href="http://purl.org/goodrelations/v1#Friday"/>
+</span>
+<div>4:30PM - 10:50PM</div>
+                            </td>
+                </tr>
+            <tr>
+                    <td class="dayNameColumn">Saturday</td>
+                    <td>
+                        <span itemprop="openingHoursSpecification" itemscope itemtype="http://schema.org/OpeningHoursSpecification">
+    <meta itemprop="opens" content="T11:30">
+    <meta itemprop="closes" content="T14:00">
+    <link itemprop="dayOfWeek" href="http://purl.org/goodrelations/v1#Saturday"/>
+</span>
+<div>11:30AM - 2:00PM</div>
+                            <span itemprop="openingHoursSpecification" itemscope itemtype="http://schema.org/OpeningHoursSpecification">
+    <meta itemprop="opens" content="T16:30">
+    <meta itemprop="closes" content="T22:50">
+    <link itemprop="dayOfWeek" href="http://purl.org/goodrelations/v1#Saturday"/>
+</span>
+<div>4:30PM - 10:50PM</div>
+                            </td>
+                </tr>
+            <tr>
+                    <td class="dayNameColumn">Sunday</td>
+                    <td>
+                        <span itemprop="openingHoursSpecification" itemscope itemtype="http://schema.org/OpeningHoursSpecification">
+    <meta itemprop="opens" content="T17:00">
+    <meta itemprop="closes" content="T21:50">
+    <link itemprop="dayOfWeek" href="http://purl.org/goodrelations/v1#Sunday"/>
+</span>
+<div>5:00PM - 9:50PM</div>
+                            </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="serviceHours">
+            <h4>Delivery Hours</h4>
+            <table>
+                <tbody>
+                <tr>
+                        <td class="dayNameColumn">Monday</td>
+                        <td>
+                            <div>11:30AM - 2:00PM</div>
+                                <div>4:30PM - 11:00PM</div>
+                                </td>
+                    </tr>
+                <tr>
+                        <td class="dayNameColumn">Tuesday</td>
+                        <td>
+                            <div>11:30AM - 2:00PM</div>
+                                <div>4:30PM - 11:00PM</div>
+                                </td>
+                    </tr>
+                <tr>
+                        <td class="dayNameColumn">Wednesday</td>
+                        <td>
+                            <div>11:30AM - 2:00PM</div>
+                                <div>4:30PM - 11:00PM</div>
+                                </td>
+                    </tr>
+                <tr>
+                        <td class="dayNameColumn">Thursday</td>
+                        <td>
+                            <div>11:30AM - 2:00PM</div>
+                                <div>4:30PM - 11:00PM</div>
+                                </td>
+                    </tr>
+                <tr>
+                        <td class="dayNameColumn">Friday</td>
+                        <td>
+                            <div>11:30AM - 2:00PM</div>
+                                <div>4:30PM - 11:00PM</div>
+                                </td>
+                    </tr>
+                <tr>
+                        <td class="dayNameColumn">Saturday</td>
+                        <td>
+                            <div>11:30AM - 2:00PM</div>
+                                <div>4:30PM - 11:00PM</div>
+                                </td>
+                    </tr>
+                <tr>
+                        <td class="dayNameColumn">Sunday</td>
+                        <td>
+                            <div>5:00PM - 10:00PM</div>
+                                </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="mapColumn deliveryMap">
+            <h4>Delivery Area</h4>
+            <small>*Refer to the map below for our delivery area:</small>
+                <div id="deliveryRadiusMap" class="mapContainer"></div>
+            </div>
+    </div>
+
+<link itemprop="map" href="https://www.google.co.uk/maps/preview#!data=!1m4!1m3!1d1778!2d-0.9568969!3d53.6186248!4m12!2m11!1m10!1s0x0%3A0xd74a29109686d998!3m8!1m3!1d317991!2d-0.0881897!3d51.4893095!3m2!1i1024!2i768!4f13.1">
+
+
+
+
+        </section>
+    </section>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+<footer class="site_footer">
+    &copy; 2013 Golden Cod
+    &middot;
+    <a href="/restaurant/goldencod/menu">View Deals</a>
+    
+        &middot;
+        <a href="/restaurant/goldencod/terms">Terms &amp; Conditions</a>
+    
+    &middot;
+    <a href="/restaurant/goldencod/articles">Sitemap</a>
+
+</footer>
+
+
+
+
+<script>
+    
+
+
+
+
+
+
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-39103287-45'],
+		  ['_trackPageview']);
+
+(function() {
+	var ga = document.createElement('script');
+	ga.type = 'text/javascript';
+	ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(ga, s);
+})();
+
+
+    
+
+
+
+
+var _kmq = _kmq || [];
+
+
+    var _kmk = _kmk || 'c8f62aef590716631076ea746eabf61fe5020633';
+    function _kms(u) {
+        setTimeout(function () {
+            var d = document, f = d.getElementsByTagName('script')[0],
+            s = d.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = u;
+            f.parentNode.insertBefore(s, f);
+        }, 1);
+    }
+    _kms('//i.kissmetrics.com/i.js');
+    _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
+
+
+</script>
+
+</body>
+</html>

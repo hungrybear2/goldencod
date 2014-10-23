@@ -1,0 +1,594 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--[if IE]><![endif]-->
+<!DOCTYPE html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="ie ie6 lte9 lte8 lte7" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="ie ie7 lte9 lte8 lte7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="ie ie8 lte9 lte8" lang="en"> <![endif]-->
+<!--[if IE 9]> <html class="ie ie9 lte9" lang="en"> <![endif]-->
+<!--[if gt IE 9]> <html lang="en"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="en"> <!--<![endif]-->
+<head>
+    <!-- Generated: Sun Oct 19 16:06:54 UTC 2014 -->
+
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta lang="en-us"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+        <meta name="robots" content="noindex">
+    
+
+
+    <!--[if lt IE 9]> <script src="/static/javascript/lib/polyfill/html5shiv.js?live" type="text/javascript" ></script>
+ <![endif]-->
+
+    
+    
+        <title>Terms & Conditions - Golden Cod</title>
+<meta name="description" content="Read our Terms and Conditions"/>
+<meta name="keywords" content="Fish & chips, takeaway"/>
+
+    
+
+    <link href="/static/styles/dist/default.css?live" rel="stylesheet" type="text/css" media="screen, projection" ></link>
+    <link href="/static/styles/dist/restaurant.css?live" rel="stylesheet" type="text/css" media="screen, projection" ></link>
+    <link href="https://fonts.googleapis.com/css?family=Lato:100,400|Droid+Serif:400,700&live" rel="stylesheet" type="text/css" media="screen, projection" rel="stylesheet"></link>
+
+    
+
+
+
+
+
+<script>
+    (function(_,e,rr,s){_errs=[s];var c=_.onerror;_.onerror=function(){var a=arguments;_errs.push(a);
+    c&&c.apply(this,a)};var b=function(){var c=e.createElement(rr),b=e.getElementsByTagName(rr)[0];
+    c.src="//beacon.errorception.com/"+s+".js";c.async=!0;b.parentNode.insertBefore(c,b)};
+    _.addEventListener?_.addEventListener("load",b,!1):_.attachEvent("onload",b)})
+    (window,document,"script", "52b30fdfa675ec343c000edf");
+</script>
+
+    <script src="/static/javascript/lib/polyfill/modernizr.custom-build.js?live" type="text/javascript" ></script>
+
+    <script>
+        
+        Modernizr.load({
+            test : Modernizr.json,
+            nope : '/static/javascript/lib/polyfill/json2.js'
+        });
+    </script>
+
+    
+
+    
+    <script src="/static/javascript/lib/jquery-1.8.2.min.js?live" type="text/javascript" ></script>
+
+    <script src="/static/javascript/lib/lodash.underscore.min.js?live" type="text/javascript" ></script>
+
+    <script src="/static/javascript/lib/picturefill-1.2.0.js?live" type="text/javascript" ></script>
+
+    <script src="/static/javascript/restaurant/RestaurantSiteCommonUi.js?live" type="text/javascript" ></script>
+
+
+
+</head>
+<body id="home" itemscope itemtype="http://schema.org/Restaurant"
+      
+      >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="iconic-background">
+	<span data-picture data-alt="Golden Cod">
+
+
+        
+            
+        
+        
+
+        
+            
+        
+        
+
+        
+            
+        
+        
+
+		<span data-src="http://lh6.ggpht.com/n5VtETfmvcQ4aRAHVNVM5PLUKOUKeqdQBMDQKFVgAMw_sJhnc3BDs_80yIZPZtwZVCumIyfvylq7o629t1gVyAqz=s480"></span>
+		<span data-src="http://lh6.ggpht.com/yGFWp92uKqMOok7LKRxMBnlHcqysj5sYe0MmNr65-XhvYco7W7y5M13oIZQkJ6IOvIYBOj23UdfpJrGi5BqeJiI=s1024" data-media="(min-width: 481px)"></span>
+		<span data-src="http://lh4.ggpht.com/A8dxjSj3Pccgd_m3OMNP9mX_9TJLTt8Oq6W1jT5dQ9r3tzacn8h-s_B-8BPUd0CuP60SJuv1sb368jJR9W990PXT=s1600" data-media="(min-width: 801px)"></span>
+
+        
+        <!--[if lte IE 8]>
+        <span data-src="http://lh4.ggpht.com/A8dxjSj3Pccgd_m3OMNP9mX_9TJLTt8Oq6W1jT5dQ9r3tzacn8h-s_B-8BPUd0CuP60SJuv1sb368jJR9W990PXT=s1600"></span>
+        <![endif]-->
+
+        <link itemprop="image" href="http://lh4.ggpht.com/A8dxjSj3Pccgd_m3OMNP9mX_9TJLTt8Oq6W1jT5dQ9r3tzacn8h-s_B-8BPUd0CuP60SJuv1sb368jJR9W990PXT=s1600">
+
+		<!-- fallback for non-js browsers -->
+		<noscript>
+            
+            
+                
+            
+            <img src="" alt="Golden Cod" />
+        </noscript>
+	</span>
+
+</div>
+
+
+<div id="wrapper">
+
+    <meta itemprop="name" content="Golden Cod">
+    
+        <meta itemprop="servesCuisine" content="Fish & Chips">
+    
+
+    <input id="restaurantId" type="hidden" value="goldencod">
+
+    
+
+
+
+
+
+
+
+
+
+<header id="restaurant-header">
+    
+    
+
+
+
+
+
+
+
+<ul class="actions">
+    
+	<li class="aboutUs">
+		<a href="/restaurant/goldencod">About Us</a>
+	</li>
+
+	
+		<li class="orderOnline" class="disabled">
+			<a href="/restaurant/goldencod/menu" itemprop="menu">
+	            <i class="fa fa-star"></i>Order Online
+			</a>
+		</li>
+	
+	
+
+	
+
+
+	
+
+    <li class="reviews" class="disabled">
+		<a href="/restaurant/goldencod/reviews">Reviews</a>
+	</li>
+
+	<li class="contact" class="disabled">
+		<a href="/restaurant/goldencod/contactUs">Contact Us</a>
+	</li>
+
+</ul>
+
+    
+        
+    
+</header>
+
+
+    
+
+    <section class="summary">
+        <section id="terms" class="terms shown">
+            <h3>FOODit LIMITED</h3>
+<h3>TRADING TERMS & CONDITIONS</h3>
+<ol class="nested mainSection">
+<li>
+    <h4>Definitions:</h4>
+    <ol class="nested">
+    
+            <li>
+    		<p>In these terms and conditions "The Company" means FOODit Limited (registered in
+                England and Wales under number 08543280 and having its Registered Office at 7 Solar
+                Way, Enfield, Middlesex, EN3 7XY) with the phone number +448433202505.</p><br/>
+
+            <p>"Website" means the current and any future Website of The Company and any the Restaurant featured thereon.</p><br/>
+
+            <p>"The Customer" means any person, firm, company or other legal entity which places an order, buys any products from The Company and includes the employees, agents or sub-contractors of any such person, firm, company or other legal entity, or accepts a quotation from The Company for the sale of goods or whose order for goods is accepted by The Company.</p><br/>
+            <p>"Products" means any food, beverage or non food goods which the Restaurant is to supply in accordance with these Conditions.</p><br/>
+            <p>"Contract" means any contract for the purchase and sale of goods.</p><br/>
+            <p>"Website Terms" means the standard terms and conditions set out in this document and (unless the context otherwise requires) includes any special terms and conditions agreed in writing between the Customer and The Company.</p><br/>
+            <p>"Writing" includes facsimile transmission, electronic mail, letters sent by registered mail or other means of communication.</p><br/>
+            <p>"the Restaurant" means the restaurant where The Customer has placed an order for delivery or collection (pick up).</p>
+        </li>
+        <li>
+            <p>Any reference in these Conditions to any provision of statute shall be construed as a reference to that provision as amended, re-enacted or extended at the relevant time.</p>
+        </li>
+        <li>
+            <p>The headings in these Conditions are for convenience only and shall not affect their interpretation.</p>
+        </li>
+    </ol>
+</li>
+
+<li>
+    <h4>Terms & Conditions:</h4>
+    <ol class="nested">
+        <li>
+            These terms and conditions shall be incorporated into the Contract and shall apply in place of and prevail over any terms and conditions verbally communicated , included in correspondence, previously negotiated or arranged or implied by custom or practice.
+        </li>
+        <li>
+            The Company reserves the right to amend or up date the current terms and conditions. Any such changes will take effect when posted on the Company's Website and will be binding at the time when an order for products is placed.
+        </li>
+        <li>
+            If any of the terms and conditions are determined by any competent authority to be invalid, unlawful or unenforceable to any extent, such term, condition or provision will to that extent be severed from the remaining terms, conditions and provisions which will continue to be valid to the fullest extent permitted by law.
+        </li>
+        <li>
+            These terms and conditions shall be governed by and construed in accordance English Law. Disputes arising in connection with these terms & conditions (including non-contractual disputes) shall be subject to the exclusive jurisdiction of the English courts.
+        </li>
+        <li>
+            Please read these Website Terms carefully before ordering any products from our Website, as your purchase of any products offered on the Website is subject to these Website Terms.
+        </li>
+        <li>
+            Use of the website is also subject to these Website Terms.
+        </li>
+        <li>
+            By accessing any part of this Website, you indicate that you accept these terms & conditions. If you do not accept these terms & conditions, you must leave this Website immediately.
+        </li>
+        <li>
+            You are responsible for making all arrangements necessary for you to have access to the Website. You are responsible for ensuring that all persons who access the Website through your internet connection are aware of these terms & conditions and that they comply with them.
+        </li>
+        <li>
+            These terms and conditions were last updated on         2013.
+        </li>
+        <li>
+            We advise you to print off a copy of these Website Terms for future reference.
+        </li>
+    </ol>
+</li>
+
+<li>
+    <h4>Orders:</h4>
+    <ol class="nested">
+        <li>
+            The Company provides a way for you to communicate your orders to a restaurant displayed on this Website.
+        </li>
+        <li>
+            On selecting your order from a menu of your chosen the Restaurant you will be given the opportunity to submit your order. Please note that it is important that you check your information and correct any errors before proceeding since once the order is submitted errors cannot be corrected.
+        </li>
+        <li>
+            If at any point you decide not to proceed you should close the application process.
+        </li>
+        <li>
+            On receipt of your order, The Company will commence to process the order and an email will be sent to confirm that the order is being processed.
+        </li>
+        <li>
+            The legal contract for the supply and purchase of Goods is between the Customer and the Restaurant that the order is placed with.
+        </li>
+        <li>
+            If your order is taking longer than expected or you have any problems with your order you can contact our customer care team and one of our advisers will chase up your order with the Restaurant.
+        </li>
+        <li>
+            The Company takes no responsibility for the quality of food or service provided by the Restaurant and any compensation should be sought directly from the Restaurant. All complaints must be lodged initially with the Restaurant and, where appropriate, the Restaurant's own complaints procedure followed before The Company is able to intervene in a complaint.
+        </li>
+        <li>
+            In the event that you are dissatisfied with the quality of food ordered through this Website, The Company will assist you, where possible, in seeking a refund from the Restaurant, to a maximum amount of the value of the original order. Please note that any complaint must be lodged within 48 hours of the order having been placed.
+        </li>
+        <li>
+            By placing an order through our Website you warrant that you are at least 18 years old and that you are legally capable of entering into a binding contract
+        </li>
+    </ol>
+</li>
+
+<li>
+    <h4>Terms of Price & Payment</h4>
+    <ol class="nested">
+        <li>
+            The price of the products will be as quoted on this Website, the prices include VAT but exclude delivery costs, if any, which will be added to the total amount due.
+        </li>
+        <li>
+          It is always possible that some of the menus will be incorrectly priced. If the correct price for an order is higher than the price stated on the Website, The Company is under no obligation to provide refunds on behalf of the Restaurant and is not responsible for refunds sought, nor is it under any obligation to ensure that the order is provided to you at the incorrect lower price nor to compensate you for any incorrect pricing..
+        </li>
+        <li>
+            Payment for all orders must be by credit or debit card as stated on this Website .
+        </li>
+        <li>
+            From time to time there may be delays with processing payments and transaction which may result in payments taking longer to be charged to your credit card or deducted from your bank.
+        </li>
+        <li>
+            Where any payment made is not authorised we shall not be obliged to provide a service.
+        </li>
+        <li>
+            Once you have placed an order and your payment has been authorised you will not be able to cancel your order nor will you be entitled to a refund.
+        </li>
+    </ol>
+</li>
+
+<li>
+    <h4>Online Security</h4>
+    <ol class="nested">
+        <li>
+            The transmission of information via the internet is not completely secure. Although The Company will take steps to protect your information, it cannot guarantee the security of your data transmitted to the Website; any transmission is at your risk.
+        </li>
+        <li>
+            Please note that the Customer's details will not be passed on to any other company, organisation or individual for the purposes of unsolicited marketing or advertising.
+        </li>
+    </ol>
+</li>
+
+<li>
+    <h4>Website Content</h4>
+    <ol class="nested">
+        <li>
+            A Customer is permitted to print and download extracts from this Website for their own personal use on the following conditions:
+            <ol class="nested">
+                <li>
+                    The copyright and other intellectual property rights in this Website and in material published on it are owned by The Company. These works are protected by copyright laws and all rights are reserved and the use of extracts from this Website are prohibited, other than permitted under paragraph 6.1.
+                </li>
+                <li>
+                    The Customer must not edit digital or paper copies of any material printed off in accordance with paragraph 6.1 and must not use any pictures, photographs, graphics, video or audio sequences separately from any text.
+                </li>
+                <li>
+                    The Customer must acknowledge that The Company is the author of the material on the Website.
+                </li>
+                <li>
+                    No part of the Website may be reproduced or stored in any other website or included in any public or private electronic retrieval system or service without our prior written permission.
+                </li>
+            </ol>
+        </li>
+        <li>
+            The Company will strive to ensure that information on this Website is correct, but does not promise that it is accurate, complete or up to date
+        </li>
+        <li>
+            The Company does not promise that the information provided by the Restaurant and displayed on this Website such as menus, pricing and estimated times for deliveries / collection is correct or up to date.
+        </li>
+        <li>
+            The Customer is responsible for the security of the password registered with this Website and unless it is negligently disclosed to a third party by The Company, The Company will not be responsible for any unauthorised transaction entered into using the Customer's name or password.
+        </li>
+        <li>
+            The Company tries to ensure the accuracy of the item names, descriptions, prices, heat and allergenic warnings and other information from the menus that are provided by the Restaurants. The Company is not responsible for providing the menu information and ensuring that it is factually accurate, this is the responsibility of the Restaurants. If the Customer is in any doubt whatsoever about any information provided, then the Customer should confirm direct with the Restaurant before placing an order.
+        </li>
+        <li>
+            Whilst The Company tries to ensure that this Website is normally available at all times, The Company will not accept liability if the Website is unavailable at any time.
+        </li>
+        <li>
+            The Company may suspend access to this Website at any time and without notice.
+        </li>
+        <li>
+            Other than personally identifiable information, any material that The Customer transmits or post to this Website will be considered non-confidential and non-proprietary. The Company will have no obligations with respect to such material. The Company will be free to copy, disclose, distribute, incorporate and otherwise use that material, images, sounds, text and other matter embodied in it for any commercial and non-commercial purposes.
+        </li>
+        <li>
+            The Customer or any other person is prohibited from posting, uploading or transmitting to or from this Website, which could give the impression that it originated from The Company, any material that:
+            <ol class="nested">
+                <li>
+                    is unlawful and therefore breaches any applicable local, national or international law:
+                </li>
+                <li>
+                    amounts to unauthorised advertising;
+                </li>
+                <li>
+                    contains viruses or any other harmful programs;
+                </li>
+                <li>
+                    promotes violence or discrimination;
+                </li>
+                <li>
+                    promotes any illegal activity;
+                </li>
+                <li>
+                    contains any defamatory, obscene or offensive material;
+                </li>
+                <li>
+                    infringes the intellectual property rights of a third party or impersonates or misrepresents affiliation with a third party or invades a third parties privacy.
+                </li>
+            </ol>
+        </li>
+        <li>
+            The above paragraphs incorporated in paragraphs 6.9 are not exhaustive and any person will be liable for all costs and damages which The Company incurs as a result of breaching any restrictions and The Company will fully co-operate with any law enforcement authority or court order requesting or directing The Company to disclose the identity or location of any person posting any material in breach of paragraph 6.9.
+        </li>
+        <li>
+            Nothing in these Website Terms excludes or limits our liability for death or personal injury arising from The Company's negligence, or fraudulent misrepresentation or any other liability which cannot be excluded or limited under applicable law. With the exception of any liability referred to previously in this paragraph, The Company's total liability to you in relation to any persons use of this Website and the services which we provide including (but not limited) to liability for breach of these Website Terms and Conditions and tort (including but not limited to negligence) is limited to an amount equivalent to the value of your order plus &pound;1 or &pound;100, whichever is the lower.
+        </li>
+    </ol>
+</li>
+
+<li>
+    <h4>General</h4>
+    <ol class="nested">
+        <li>
+            The Company will not be liable or responsible for any failure to perform, or delay in performance of, any of our obligations under a contract that is caused by events outside our reasonable control (Force Majeure).
+            <ol class="nested">
+                <li>
+                    Our performance under any contract is deemed to be suspended for the period that the Force Majeure Event continues, and we will have an extension of time for performance for the duration of that period. We will use our reasonable endeavours to find a solution by which our obligations under the contract may be performed despite the Force Majeuere Event.
+                </li>
+                <li>
+                    A Force Majeure Event includes any act, event, non-happening, omission or accident beyond our reasonable  and includes in particular (without limitation) the following:-
+                    <ol class="nested-alpha">
+                        <li>
+                            fire, explosion, storm, flood, earthquake, subsidence, epidemic or other natural disaster;
+                        </li>
+                        <li>
+                            civil commotion, riot, invasion, terrorist attack or threat of terrorist attack, war(whether declared or not) or threat or preparation for war;
+                        </li>
+                        <li>
+                            strikes, or lock-outs or industrial action;
+                        </li>
+                        <li>
+                            impossibility of the use of any mode of transport, either public or private;
+                        </li>
+                        <li>
+                            impossibility of the use of public or private telecommunications networks; and
+                        </li>
+                        <li>
+                            any acts, decrees, legislation, regulations or restrictions of any government.
+                        </li>
+                    </ol>
+                </li>
+            </ol>
+        </li>
+        <li>
+            Telephone calls may be recorded for training or reference purposes.
+        </li>
+        <li>
+            The Company may terminate or suspend (at it's absolute discretion) any person's right to use this Website and use of services, by notification in Writing, if it believes that there has been an infringement or breach of the Website Terms & Conditions.
+        </li>
+    </ol>
+</li>
+<li>
+<h4>Privacy Policy</h4>
+    <ol class="nested">
+ 	<li>
+        	At this time of print we do not store card details
+	</li>
+        <li>
+        	We will only share this information like Frist Name, Last Name, and Address with 3rd parties if you opt in.
+	</li>
+	<li>
+         	We do share anonymised information with 3rd parties.	
+	</li>
+    </ol>
+</li>
+
+</ol>
+        </section>
+    </section>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+<footer class="site_footer">
+    &copy; 2013 Golden Cod
+    &middot;
+    <a href="/restaurant/goldencod/menu">View Deals</a>
+    
+        &middot;
+        <a href="/restaurant/goldencod/terms">Terms &amp; Conditions</a>
+    
+    &middot;
+    <a href="/restaurant/goldencod/articles">Sitemap</a>
+
+</footer>
+
+
+
+
+<script>
+    
+
+
+
+
+
+
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-39103287-45'],
+		  ['_trackPageview']);
+
+(function() {
+	var ga = document.createElement('script');
+	ga.type = 'text/javascript';
+	ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(ga, s);
+})();
+
+
+    
+
+
+
+
+var _kmq = _kmq || [];
+
+
+    var _kmk = _kmk || 'c8f62aef590716631076ea746eabf61fe5020633';
+    function _kms(u) {
+        setTimeout(function () {
+            var d = document, f = d.getElementsByTagName('script')[0],
+            s = d.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = u;
+            f.parentNode.insertBefore(s, f);
+        }, 1);
+    }
+    _kms('//i.kissmetrics.com/i.js');
+    _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
+
+
+</script>
+
+</body>
+</html>
